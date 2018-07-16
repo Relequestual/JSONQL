@@ -1,6 +1,6 @@
 # jsonQL
 
-With ST, you ccan parse any JSON object with a template to create a new JSON.
+With ST, you can parse any JSON object with a template to create a new JSON.
 
 The powerful thing here is that even the template itself is also written in JSON.
 
